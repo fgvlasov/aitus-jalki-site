@@ -49,7 +49,7 @@ fi:{
 	materials_text:'Lisää tiedostot kansioon assets/docs ja muokkaa tämän sivun kortteja.',
 	contact_title:'Yhteystiedot',
 	contact_text:'Kirjoita tähän sähköposti, puhelin, kaupunki ja ilmoittautumisohjeet.',
-	footer_text:'Ajatus ja Liike — lasten ja nuorten shakkia, liikuntaa ja retkiä Suomessa.'
+	footer_text:'Ajatus ja Liike — lasten ja nuorten shakkia, liikuntaa ja retkiä Suomessa, Jyväskylä.'
 },
 en:{
 	nav_home:'Home',
@@ -101,7 +101,7 @@ en:{
 	materials_text:'Add files to assets/docs and edit the cards on this page.',
 	contact_title:'Contacts',
 	contact_text:'Add email, phone, city and registration instructions here.',
-	footer_text:'Ajatus ja Liike — chess, sports and trips for children and young people in Finland.'
+	footer_text:'Ajatus ja Liike — chess, sports and trips for children and young people in Finland, Jyväskylä.'
 },
 ru:{
 	nav_home:'Главная',
@@ -153,7 +153,7 @@ ru:{
 	materials_text:'Добавьте файлы в папку assets/docs и отредактируйте карточки на этой странице.',
 	contact_title:'Контакты',
 	contact_text:'Добавьте сюда email, телефон, город и инструкцию для записи.',
-	footer_text:'Ajatus ja Liike RY — шахматы, спорт и походы для детей и подростков в Финляндии.'
+	footer_text:'Ajatus ja Liike RY — шахматы, спорт и походы для детей и подростков в Финляндии, Ювяскюля.'
 }
 };
 function setLang(lang){localStorage.setItem('siteLang',lang);
