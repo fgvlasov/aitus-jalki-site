@@ -21,6 +21,7 @@ fi:{
 	sports:'Liikunta',
 	trips:'Retket & tapahtumat',
 	learning:'Oppiminen',
+	gallery:'Galleria',
 	chess_text:'Opetamme shakin perusteita, debyyttejä, tehtäviä ja pelistrategioita.',
 	sports_text:'Tennistä, frisbeegolfia, juoksua, pallopelejä ja muuta hauskaa.',
 	trips_text:'Vaelluksia, hiihtoretkiä, leirejä ja unohtumattomia elämyksiä.',
@@ -49,6 +50,10 @@ fi:{
 	materials_text:'Lisää tiedostot kansioon assets/docs ja muokkaa tämän sivun kortteja.',
 	contact_title:'Yhteystiedot',
 	contact_text:'Kirjoita tähän sähköposti, puhelin, kaupunki ja ilmoittautumisohjeet.',
+	study_white_1_24:'Debyytit valkeilla, luvut 1–24',
+	study_white_25_52:'Debyytit valkeilla, luvut 25–52',
+	study_black:'Debyytit mustilla',
+	study_polgar:'Polgár-tehtäväkirja — 4462 tehtävää',
 	footer_text:'Ajatus ja Liike — lasten ja nuorten shakkia, liikuntaa ja retkiä Suomessa, Jyväskylä.'
 },
 en:{
@@ -73,6 +78,7 @@ en:{
 	sports:'Sports',
 	trips:'Trips & events',
 	learning:'Learning',
+	gallery:'Gallery',
 	chess_text:'We teach chess basics, openings, puzzles and playing strategy.',
 	sports_text:'Tennis, frisbee golf, running, ball games and other fun activities.',
 	trips_text:'Hikes, ski trips, camps and memorable experiences.',
@@ -101,6 +107,10 @@ en:{
 	materials_text:'Add files to assets/docs and edit the cards on this page.',
 	contact_title:'Contacts',
 	contact_text:'Add email, phone, city and registration instructions here.',
+	study_white_1_24:'Opening with White, chapters 1–24',
+	study_white_25_52:'Opening with White, chapters 25–52',
+	study_black:'Opening with Black',
+	study_polgar:'Polgár puzzle book — 4462 puzzles',
 	footer_text:'Ajatus ja Liike — chess, sports and trips for children and young people in Finland, Jyväskylä.'
 },
 ru:{
@@ -125,6 +135,7 @@ ru:{
 	sports:'Спорт',
 	trips:'Походы и события',
 	learning:'Обучение',
+	gallery:'Галерея',
 	chess_text:'Учим основам шахмат, дебютам, задачам и игровой стратегии.',
 	sports_text:'Теннис, фризбигольф, бег, игры с мячом и другие активности.',
 	trips_text:'Прогулки, лыжные походы, лагеря и яркие впечатления.',
@@ -153,6 +164,10 @@ ru:{
 	materials_text:'Добавьте файлы в папку assets/docs и отредактируйте карточки на этой странице.',
 	contact_title:'Контакты',
 	contact_text:'Добавьте сюда email, телефон, город и инструкцию для записи.',
+	study_white_1_24:'Дебют белыми с 1 по 24 главу',
+	study_white_25_52:'Дебют белыми с 25 по 52 главу',
+	study_black:'Дебют черными',
+	study_polgar:'Задачник Полгар — 4462 задачи',
 	footer_text:'Ajatus ja Liike RY — шахматы, спорт и походы для детей и подростков в Финляндии, Ювяскюля.'
 }
 };
